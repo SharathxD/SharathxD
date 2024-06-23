@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Sharath Gowda</h1>
-<h3 align="center">A passionate AI & ML engineer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3e5abde5a0e82707d2b258b335fea32a5dc7cf62b7f5bf2a381c83fe0e709606/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f302a37513379765349765f7430696f4a2d5a2e676966">
 - 🔭 I’m currently working on AI ML projects
 
