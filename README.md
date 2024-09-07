@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3e5abde5a0e82707d2b258b335fea32a5dc7cf62b7f5bf2a381c83fe0e709606/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f302a37513379765349765f7430696f4a2d5a2e676966">
 - 🔭 I’m currently working on AI ML projects
 
-- 🌱 I’m currently learning *ML ops*
+- 🌱 I’m currently learning *Machine Learning*
 
 - 📫 How to reach me **msharathgowda7@gmail.com**
 
